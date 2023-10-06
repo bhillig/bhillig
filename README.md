@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Brandon Hillig</h1>
 <h3 align="center">A passionate Software Engineer from San Jose</h3>
 
-<p align="left"> <a href="https://twitter.com/onlinezhd" target="blank"><img src="https://img.shields.io/twitter/follow/onlinezhd?logo=twitter&style=for-the-badge" alt="onlinezhd" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://www.brandonhillig.dev/](https://www.brandonhillig.dev/)
 
 - 💬 Ask me about **Game Engines, C++, and UE5**
 
 - 📫 How to reach me **brandonhillig@gmail.com**
 
-- 📄 Know about my experiences [https://www.brandonhillig.com/_files/ugd/7d7660_85fb3a12d28d42d685fccfc9a8b06b50.pdf](https://www.brandonhillig.com/_files/ugd/7d7660_85fb3a12d28d42d685fccfc9a8b06b50.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/onlinezhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onlinezhd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/brandon-hillig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon-hillig" height="30" width="40" /></a>
 </p>
 
