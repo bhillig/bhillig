@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brandon Hillig</h1>
 <h3 align="center">A passionate Software Engineer from San Jose</h3>
 
+<p align="left"> <a href="https://twitter.com/onlinezhd" target="blank"><img src="https://img.shields.io/twitter/follow/onlinezhd?logo=twitter&style=for-the-badge" alt="onlinezhd" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://www.brandonhillig.dev/](https://www.brandonhillig.dev/)
 
 - 💬 Ask me about **Game Engines, C++, and UE5**
