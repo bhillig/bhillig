@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/onlinezhd" target="blank"><img src="https://img.shields.io/twitter/follow/onlinezhd?logo=twitter&style=for-the-badge" alt="onlinezhd" /></a> </p>
 
-- My Website: [brandonhillig.com](https://sites.google.com/view/brandonhillig/home)
 - 📫 How to reach me **brandonhillig@gmail.com**
 
 <h1 align="center">Projects</h1>
