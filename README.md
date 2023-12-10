@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Brandon Hillig</h1>
-<h3 align="center">A passionate Software Engineer from San Jose</h3>
-
-<p align="left"> <a href="https://twitter.com/onlinezhd" target="blank"><img src="https://img.shields.io/twitter/follow/onlinezhd?logo=twitter&style=for-the-badge" alt="onlinezhd" /></a> </p>
 
 - 📫 How to reach me **brandonhillig@gmail.com**
 
