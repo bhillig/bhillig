@@ -25,7 +25,7 @@ Reach me at: **brandonhillig@gmail.com**
       <h3 align="center">Neon Blade Impetus</h3>
         <br />
       <a target="_blank" href="https://bhillig.itch.io/neon-blade-impetus">
-            <img src="images/neon-blade-impetus-image-one.jpg" width="100%"  alt="Neon Blade Impetus"/>
+            <img src="images/neon.gif" width="100%"  alt="Neon Blade Impetus"/>
         </a>
         <br />
         <p align="center">
