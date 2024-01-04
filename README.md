@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon Hillig</h1>
 
-Reach me at: **brandonhillig@gmail.com**
+Reach me: **brandonhillig@gmail.com**
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
