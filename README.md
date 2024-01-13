@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Hillig</h1>
 
+<p>I love to solve interesting problems and learn new technologies.</p>
+<p>Here you can find projects I've worked on both independently and with teams.</p>
 Reach me: **brandonhillig@gmail.com**
 
 <h1 align="center">Projects</h1>
