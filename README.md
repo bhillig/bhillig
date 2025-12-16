@@ -9,10 +9,10 @@ Reach me at brandonhillig@gmail.com
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">OpenGL 3D Renderer</h3>
+      <h3 align="center">3D Game Engine</h3>
         <br />
         <a target="_blank" href="https://github.com/bhillig/back-to-opengl">
-            <img src="images/opengl3drenderer.gif" width="100%" alt="OpenGL 3D Renderer"/>
+            <img src="images/opengl3drenderer.gif" width="100%" alt="OpenGL 3D Game Engine"/>
         </a>
         <br />
         <p align="center">
@@ -21,7 +21,7 @@ Reach me at brandonhillig@gmail.com
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
       </p>
-        <p><strong>C++, OpenGL, ImGui, Assimp</strong> - Custom OpenGL 3D renderer capable of loading complex models, rendering multiple scenes, and managing a dynamic set of objects.</p>
+        <p><strong>C++, OpenGL, ImGui, Assimp</strong> - Custom 3D game engine capable of loading complex models, rendering multiple scenes, and managing a dynamic set of objects.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Sorting Algorithms Visualizer</h3>
