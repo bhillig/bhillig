@@ -12,7 +12,7 @@ Reach me at brandonhillig@gmail.com
       <h3 align="center">3D Game Engine</h3>
         <br />
         <a target="_blank" href="https://github.com/bhillig/back-to-opengl">
-            <img src="images/opengl3drenderer.gif" width="100%" alt="OpenGL 3D Game Engine"/>
+            <img src="images/gameengine.gif" width="100%" alt="3D Game Engine"/>
         </a>
         <br />
         <p align="center">
