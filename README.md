@@ -1,7 +1,8 @@
-<h1 align="center">BHillig Studios</h1>
+<h1 align="center">Hi 👋, I'm Brandon Hillig</h1>
 
-<p>We are an independent game development studio founded in 2025, focused on building inventive, systems-driven games and powerful tools for developers. </p>
-<p>We are currently developing our debut roguelike title, with a planned release on Steam in 2028.</p>
+<p>I love to solve interesting problems and learn new technologies.</p>
+<p>Here you can find projects I've worked on both independently and with teams.</p>
+Reach me at brandonhillig@gmail.com
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
